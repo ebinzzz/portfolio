@@ -3,7 +3,7 @@
     "name": "Student Registration Management System",
     "desc": "Web platform for students to register for courses, track attendance, and pay fees. Admins manage records and logs.",
     "image": "studentregsys",
-    "category": "web",
+    "category": "lamp",
     "links": {
       "view": "#",
       "code": "#"
@@ -13,7 +13,7 @@
     "name": "College Event Management System",
     "desc": "Web system for managing college events with scheduling, registration, and auto-certificate generation.",
     "image": "colleventmgmt",
-    "category": "web",
+    "category": "lamp",
     "links": {
       "view": "#",
       "code": "#"
@@ -23,7 +23,7 @@
     "name": "E-Commerce Plant Nursery",
     "desc": "E-commerce platform for plant sales. Features catalog, cart, payment, order tracking, and delivery management.",
     "image": "plantnursecom",
-    "category": "web",
+    "category": "lamp",
     "links": {
       "view": "#",
       "code": "#"
@@ -33,7 +33,7 @@
     "name": "SPACS Website",
     "desc": "Website for Students Programming Association of Computer Science to manage members, meetings, and event communication.",
     "image": "spacswebsite",
-    "category": "web",
+    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
@@ -43,7 +43,7 @@
     "name": "Biometric Ballot System",
     "desc": "Secure voting system using fingerprint verification and OTP via MXFACE API. Prevents fraud and ensures transparency.",
     "image": "biometricballot",
-    "category": "hardware",
+    "category": "lamp",
     "links": {
       "view": "#",
       "code": "#"
