@@ -32,7 +32,7 @@
   {
     "name": "SPACS Website",
     "desc": "Website for Students Programming Association of Computer Science to manage members, meetings, and event communication.",
-    "image": "spacswebsite",
+    "image": "spacs",
     "category": "basicweb",
     "links": {
       "view": "#",
