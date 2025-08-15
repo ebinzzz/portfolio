@@ -1,6 +1,6 @@
 [
   {
-    "name": "Student Registration Management System",
+    "name": "Student  Management System",
     "desc": "Web platform for students to register for courses, track attendance, and pay fees. Admins manage records and logs.",
     "image": "studentregsys",
     "category": "lamp",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "College Event Management System",
+    "name": "College Event Management ",
     "desc": "Web system for managing college events with scheduling, registration, and auto-certificate generation.",
     "image": "colleventmgmt",
     "category": "lamp",
